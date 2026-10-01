@@ -1,0 +1,5 @@
+# Install this repository's custom Ultralytics implementation.
+-e .
+
+# Dataset preparation (both datasets).
+iterative-stratification==0.1.9
